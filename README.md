@@ -12,6 +12,8 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 <!-- Your screenshot should go here -->
 <img src="screenshot.png" alt="Screenshot"/><br/>
 
+<img src="screenshot2.png" alt="Screenshot"/><br/>
+
 ### Installation
 1. https://github.com/eldritch-theme/thunderbird and install
 
